@@ -1,0 +1,41 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.welcome-area {
+    background: #3fb0ac url("../images/##.jpg") no-repeat scroll left top;
+        background-size: auto;
+    position: relative;
+    background-size: cover;
+	height: 100vh;
+}
+
+.welcome-area .container {
+	overflow: hidden;
+	padding: 50px 10px 45px;
+	min-height: 600px;
+}
+
+.title {
+	text-align: center;
+	color: #fff;
+	margin-top: 200px;
+}
+
+.title h1 {
+	color: #fae596;
+	animation-duration: 5s;
+}
+
+.title hr {
+	animation-duration: 5s;
+}
+
+.title button {
+	animation-delay: 6s;
+}
+
+.btn-outline-primary {
+    color: #fff;
+    border-color: #fff;
+}
